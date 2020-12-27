@@ -1,5 +1,5 @@
 # teaching
-notes from courses I am teaching
+Notes from courses I am teaching
 
 If you are interested in learning Python, there are a lot of Jupyter Notebooks, that you can download and play with. 
 
